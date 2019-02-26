@@ -20,3 +20,5 @@ Python was a great choice…
 
 Since then, I have developed many applications to support my trading activities, 
 including tools for data collecting, data analysis, strategy building, machine learning and automation.
+
+---
