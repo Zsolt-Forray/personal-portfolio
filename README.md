@@ -1,6 +1,4 @@
 # Personal
-
-## Python Developer
 Hello, my name is Zsolt Forray.
 I am a self-taught, self-motivated Python developer currently based in Budapest, Hungary. For the last four years, I have been building small applications to support decision-making for trading stocks and options on U.S. markets.
 
