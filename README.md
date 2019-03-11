@@ -3,8 +3,8 @@ Hello, my name is Zsolt Forray.
 I am a self-taught, self-motivated Python developer currently based in Budapest, Hungary. For the last four years, I have been building small applications to support decision-making for trading stocks and options on U.S. markets.
 
 ### Contents
-* [About Me](#about-me)
-* [Portfolio](#portfolio)
+- [About Me](#about-me)
+- [Portfolio](#portfolio)
 
 ### About Me
 I studied mechanical engineering at Budapest University of Technology and Economics. After graduation, I started my career at an international engineering contracting company. 2 years later, I was delegated to expatriate services to build and lead the sales application team in China, where I gained additional 6 years of valuable sales and application engineering experience.
