@@ -20,18 +20,18 @@ Since then, I have developed many applications to support my trading activities,
 ## Portfolio
 I am proud to show some of my basic projects.
 
-### [Financial Info Scraper](https://github.com/Zsolt-Forray/financial-info-scraper)
+### Web Scrapers
 There are 3 Python scrapers to extract financial information of stocks from the following websites:
-+   nasdaq.com
-+   finance.yahoo.com
-+   marketbeat.com
++   [nasdaq.com](https://github.com/Zsolt-Forray/nasdaq-scraper)
++   [finance.yahoo.com](https://github.com/Zsolt-Forray/yahoo-scraper)
++   [marketbeat.com](https://github.com/Zsolt-Forray/marketbeat-scraper)
 
 ### [Statistical Tools](https://github.com/Zsolt-Forray/statistical-tools)
 This project includes different statistical measures (*Beta* and *Historical Volatility*) to quantify risk and *Correlation Coefficient* that is used for the mitigation of risk arising from equity selection.
 
 ### [Options Strategies](https://github.com/Zsolt-Forray/options-strategies)
-+   The *Options Calculator* calculates the value of Call/Put European options on non-dividend paying stocks and the Greeks.
-+   The *Options Strategy Analyzing Tool* calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
++   The [Options Calculator](https://github.com/Zsolt-Forray/options-calculator) calculates the value of Call/Put European options on non-dividend paying stocks and the Greeks.
++   The [Options Strategy Analyzing Tool](https://github.com/Zsolt-Forray/options-strategies) calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
 
 ### [Machine Learning](https://github.com/Zsolt-Forray/machine-learning)
 This tool is created to estimate stock price direction prediction accuracy of K-NN and SVM supervised machine learning classification algorithms.
