@@ -29,7 +29,7 @@ There are 3 Python scrapers to extract financial information of stocks from the 
 ### [Statistical Tools](https://github.com/Zsolt-Forray/statistical-tools)
 This project includes different statistical measures (*Beta* and *Historical Volatility*) to quantify risk and *Correlation Coefficient* that is used for the mitigation of risk arising from equity selection.
 
-### [Options Strategies](https://github.com/Zsolt-Forray/options-strategies)
+### Options Strategies
 +   The [Options Calculator](https://github.com/Zsolt-Forray/options-calculator) calculates the value of Call/Put European options on non-dividend paying stocks and the Greeks.
 +   The [Options Strategy Analyzing Tool](https://github.com/Zsolt-Forray/options-strategies) calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
 
@@ -38,3 +38,6 @@ This tool is created to estimate stock price direction prediction accuracy of K-
 
 ### [Stock Price Behavior Analyzing Tool](https://github.com/Zsolt-Forray/stock-price-behavior)
 This *Price Behavior Analyzing* tool provides statistics of the distribution of predefined stock price ranges (e.g. close price and open price difference) over a given period of time.
+
+### [Portfolio Website](https://www.zsoltforray.com/)
+Portfolio website to present some of my projects.
