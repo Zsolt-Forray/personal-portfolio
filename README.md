@@ -23,7 +23,7 @@ I am proud to show some of my basic projects.
 ### Web Scrapers
 There are 3 Python scrapers to extract financial information of stocks from the following websites:
 +   [Nasdaq Scraper](https://github.com/Zsolt-Forray/nasdaq-scraper)
-+   [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-scraper)
++   [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)
 +   [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)
 
 ### [Statistical Tools](https://github.com/Zsolt-Forray/statistical-tools)
