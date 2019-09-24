@@ -15,7 +15,7 @@ At the time I used VBA codes for many kinds of tasks. As an engineer I automated
 
 In 2014, I resigned from the company and turned my trading hobby into a full-time job. As I switched from ‘hobby mode’ to ‘business mode’ I realized that Excel and VBA is not that efficient to make intensive calculations on large data sets. I had to find other programming language that had extensive libraries especially for web harvesting, data manipulation and data analysis. Python was a great choice…
 
-Since then, I have developed many applications to support my trading activities, including tools for data collecting, data analysis, strategy building, machine learning and automation.
+Since then, I have developed several engineering tools and applications to support my trading activities, including tools for data collecting, data analysis, strategy building, machine learning, visualization and automation.
 
 ## Portfolio
 I am proud to show some of my basic projects.
