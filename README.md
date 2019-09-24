@@ -20,6 +20,14 @@ Since then, I have developed many applications to support my trading activities,
 ## Portfolio
 I am proud to show some of my basic projects.
 
+### Engineering Tools
+These engineering tools calculate heat transfer, heat exchangers and power stations:
++   [Fin Temperature Distribution and Efficiency](https://github.com/Zsolt-Forray/fin-temperature-distribution)
++   [HEX Surface Calculation - LMTD-Method](https://github.com/Zsolt-Forray/lmtd-method)
++   [Heat Transfer Calculation - effectiveness-NTU method](https://github.com/Zsolt-Forray/ntu-method)
++   [Reversible Rankine Cycle](https://github.com/Zsolt-Forray/rankine)
++   [Rankine Cycle - Nuclear PP.](https://github.com/Zsolt-Forray/rankine-nuclear)
+
 ### Web Scrapers
 There are 3 Python scrapers to extract financial information of stocks from the following websites:
 +   [Nasdaq Scraper](https://github.com/Zsolt-Forray/nasdaq-scraper)
