@@ -3,8 +3,8 @@ Hello, my name is Zsolt Forray.
 I am a self-taught, self-motivated Python developer currently based in Budapest, Hungary. For the last four years, I have been building small applications to support decision-making for trading stocks and options on U.S. markets.
 
 ## Contents
-- [About Me](#about-me)
-- [Portfolio](#portfolio)
+* [About Me](#about-me)
+* [Portfolio](#portfolio)
 
 ## About Me
 I studied mechanical engineering at Budapest University of Technology and Economics. After graduation, I started my career at an international engineering contracting company. 2 years later, I was delegated to expatriate services to build and lead the sales application team in China, where I gained additional 6 years of valuable sales and application engineering experience.
@@ -22,16 +22,16 @@ I am proud to show some of my basic projects.
 
 ### Web Scrapers
 There are 3 Python scrapers to extract financial information of stocks from the following websites:
-+   [Nasdaq Scraper](https://github.com/Zsolt-Forray/nasdaq-scraper)
-+   [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-scraper)
-+   [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)
+* Nasdaq Scraper
+* [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)
+* [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)
 
 ### [Statistical Tools](https://github.com/Zsolt-Forray/statistical-tools)
 This project includes different statistical measures (*Beta* and *Historical Volatility*) to quantify risk and *Correlation Coefficient* that is used for the mitigation of risk arising from equity selection.
 
 ### Options Strategies
-+   The [Options Calculator](https://github.com/Zsolt-Forray/options-calculator) calculates the value of Call/Put European options on non-dividend paying stocks and the Greeks.
-+   The [Options Strategy Analyzing Tool](https://github.com/Zsolt-Forray/options-strategies) calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
+* The [Options Calculator](https://github.com/Zsolt-Forray/options-calculator) calculates the value of Call/Put European options on non-dividend paying stocks and the Greeks.
+* The [Options Strategy Analyzing Tool](https://github.com/Zsolt-Forray/options-strategies) calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
 
 ### [Machine Learning](https://github.com/Zsolt-Forray/machine-learning)
 This tool is created to estimate stock price direction prediction accuracy of K-NN and SVM supervised machine learning classification algorithms.
