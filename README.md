@@ -18,11 +18,16 @@ At the time I used VBA codes and Excel for many kinds of tasks. As an engineer I
 
 In 2014, I resigned from the company and turned my trading hobby into a full-time job. As I switched from ‘hobby mode’ to ‘business mode’ I realized that Excel and VBA is not that efficient to make intensive calculations on large data sets. I had to find other programming language that had extensive libraries especially for web harvesting, data manipulation and data analysis. Python was a great choice…
 
+<<<<<<< HEAD
 Since then, I have developed engineering tools and applications to automate web scraping, data collecting, data storage, data analysis and visulization. I also acquired new skills by learning SQL, Git and Linux.
+=======
+Since then, I have developed several engineering tools, and applications to support my trading activities, including tools for data collecting, data analysis, strategy building, machine learning, visualization and automation.
+>>>>>>> fb9f7679d944a656505d7565f4b97a44d21a39ac
 
 ## Portfolio
 I am proud to show some of my basic projects.
 
+<<<<<<< HEAD
 ### Engineering Tools:
 * [Rankine Cycle](https://github.com/Zsolt-Forray/rankine)<br>Calculates the efficiency of Reversible Rankine Cycle.
 * [Rankine Cycle - Nuclear](https://github.com/Zsolt-Forray/rankine-nuclear)<br>Calculates the efficiency of Reversible Rankine Cycle - Nuclear Power Plant with or without moisture separator.
@@ -36,6 +41,22 @@ There are 3 Python scrapers to extract financial information of stocks from the 
 * Reuters Scraper<br>Downloads quarterly EPS data from Reuters.
 * [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)<br>Scrapes and downloads financial data from Yahoo! Finance website.
 * [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)<br>Collects today's analyst actions (upgrades, downgrades, etc.) of major brokerage houses for US companies (including OTC markets).
+=======
+### Engineering Tools
+These engineering tools calculate heat transfer, heat exchangers and power stations:
++   [Fin Temperature Distribution and Efficiency](https://github.com/Zsolt-Forray/fin-temperature-distribution)
++   [HEX Surface Calculation - LMTD-Method](https://github.com/Zsolt-Forray/lmtd-method)
++   [Heat Transfer Calculation - effectiveness-NTU method](https://github.com/Zsolt-Forray/ntu-method)
++   [Reversible Rankine Cycle](https://github.com/Zsolt-Forray/rankine)
++   [Rankine Cycle - Nuclear PP.](https://github.com/Zsolt-Forray/rankine-nuclear)
+
+### Web Scrapers
+There are 3 Python scrapers to extract financial information of stocks from the following websites:
++   Nasdaq Scraper
++   Reuters Scraper
++   [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)
++   [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)
+>>>>>>> fb9f7679d944a656505d7565f4b97a44d21a39ac
 
 ### Statistical Tools
 This project includes different statistical measures (*Beta* and *Historical Volatility*) to quantify risk and *Correlation Coefficient* that is used for the mitigation of risk arising from equity selection.
