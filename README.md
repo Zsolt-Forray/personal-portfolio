@@ -31,7 +31,7 @@ I am proud to show some of my basic projects.
 * [Fin Temperature Distribution](https://github.com/Zsolt-Forray/fin-temperature-distribution)<br>Calculates temperature as a function of distance from the base of a fin of uniform cross-sectional area. The fin is attached to a base, which has the same cross-sectional area and is at a constant temperature.
 
 ### Web Scrapers
-There are 3 Python scrapers to extract financial information of stocks from the following websites:
+There are Python scrapers to extract financial information of stocks from the following websites:
 * Nasdaq Scraper<br>Extracts financial information of stocks from Nasdaq.
 * Reuters Scraper<br>Downloads quarterly EPS data from Reuters.
 * [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)<br>Scrapes and downloads financial data from Yahoo! Finance website.
