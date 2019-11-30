@@ -1,6 +1,7 @@
 # Personal
 Hello, my name is Zsolt Forray.
 I am a self-taught, self-motivated Python developer currently based in Budapest, Hungary. For the last four years I have been creating:
+
 * Engineering tools to simulate heat transfer, heat exchangers and power station steam cycle
 * Small applications to support decision-making for trading stocks and options on U.S. markets
 * Tools to automate web scraping, data collecting, data storage, data analysis and visulization tasks
