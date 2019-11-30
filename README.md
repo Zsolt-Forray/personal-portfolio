@@ -25,18 +25,27 @@ Since then, I have developed engineering tools and applications to automate web 
 I am proud to show some of my basic projects.
 
 ### Engineering Tools:
-* [Rankine Cycle](https://github.com/Zsolt-Forray/rankine)<br>Calculates the efficiency of Reversible Rankine Cycle.
-* [Rankine Cycle - Nuclear](https://github.com/Zsolt-Forray/rankine-nuclear)<br>Calculates the efficiency of Reversible Rankine Cycle - Nuclear Power Plant with or without moisture separator.
-* [Heat Exchanger Surface](https://github.com/Zsolt-Forray/lmtd-method)<br>Determines the surface area of the heat exchanger using the LMTD method.
-* [Heat Transfer Rate](https://github.com/Zsolt-Forray/ntu-method)<br>The NTU Method used to calculate the rate of heat transfer when outlet temperatures are not available.
-* [Fin Temperature Distribution](https://github.com/Zsolt-Forray/fin-temperature-distribution)<br>Calculates temperature as a function of distance from the base of a fin of uniform cross-sectional area. The fin is attached to a base, which has the same cross-sectional area and is at a constant temperature.
+* [Rankine Cycle](https://github.com/Zsolt-Forray/rankine)  
+Calculates the efficiency of Reversible Rankine Cycle.
+* [Rankine Cycle - Nuclear](https://github.com/Zsolt-Forray/rankine-nuclear)  
+Calculates the efficiency of Reversible Rankine Cycle - Nuclear Power Plant with or without moisture separator.
+* [Heat Exchanger Surface](https://github.com/Zsolt-Forray/lmtd-method)  
+Determines the surface area of the heat exchanger using the LMTD method.
+* [Heat Transfer Rate](https://github.com/Zsolt-Forray/ntu-method)  
+The NTU Method used to calculate the rate of heat transfer when outlet temperatures are not available.
+* [Fin Temperature Distribution](https://github.com/Zsolt-Forray/fin-temperature-distribution)  
+Calculates temperature as a function of distance from the base of a fin of uniform cross-sectional area. The fin is attached to a base, which has the same cross-sectional area and is at a constant temperature.
 
 ### Web Scrapers
 There are Python scrapers to extract financial information of stocks from the following websites:
-* Nasdaq Scraper<br>Extracts financial information of stocks from Nasdaq.
-* Reuters Scraper<br>Downloads quarterly EPS data from Reuters.
-* [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)<br>Scrapes and downloads financial data from Yahoo! Finance website.
-* [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)<br>Collects today's analyst actions (upgrades, downgrades, etc.) of major brokerage houses for US companies (including OTC markets).
+* Nasdaq Scraper  
+Extracts financial information of stocks from Nasdaq.
+* Reuters Scraper  
+Downloads quarterly EPS data from Reuters.
+* [Yahoo! Finance Scraper](https://github.com/Zsolt-Forray/yahoo-finance-scraper)  
+Scrapes and downloads financial data from Yahoo! Finance website.
+* [MarketBeat Scraper](https://github.com/Zsolt-Forray/marketbeat-scraper)  
+Collects today's analyst actions (upgrades, downgrades, etc.) of major brokerage houses for US companies (including OTC markets).
 
 ### Statistical Tools
 This project includes different statistical measures (*Beta* and *Historical Volatility*) to quantify risk and *Correlation Coefficient* that is used for the mitigation of risk arising from equity selection.
@@ -46,8 +55,10 @@ This project includes different statistical measures (*Beta* and *Historical Vol
 * [Correlation](https://github.com/Zsolt-Forray/statistical-tools/blob/master/correlation_calculator.py)
 
 ### Options Strategies
-* [Options Calculator](https://github.com/Zsolt-Forray/options-calculator)<br>Calculates the value of *Call/Put European Options* on non-dividend paying stocks and the *Greeks*.
-* [Options Strategy Analyzing Tool](https://github.com/Zsolt-Forray/options-strategies)<br>Calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
+* [Options Calculator](https://github.com/Zsolt-Forray/options-calculator)  
+Calculates the value of *Call/Put European Options* on non-dividend paying stocks and the *Greeks*.
+* [Options Strategy Analyzing Tool](https://github.com/Zsolt-Forray/options-strategies)  
+Calculates the Expected Result (ER) of options strategies based on different strike prices. Trades with positive expected results are selected and these trade opportunities are sorted from the highest ER to the lowest.
 
 ### [Machine Learning](https://github.com/Zsolt-Forray/machine-learning)
 This tool is created to estimate stock price direction prediction accuracy of K-NN and SVM supervised machine learning classification algorithms.
