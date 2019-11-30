@@ -38,6 +38,7 @@ Calculates temperature as a function of distance from the base of a fin of unifo
 
 ### Web Scrapers
 There are Python scrapers to extract financial information of stocks from the following websites:
+
 * Nasdaq Scraper  
 Extracts financial information of stocks from Nasdaq.
 * Reuters Scraper  
