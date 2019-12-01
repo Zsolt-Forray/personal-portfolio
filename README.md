@@ -24,7 +24,7 @@ Since then, I have developed engineering tools and applications to automate web 
 ## Portfolio
 I am proud to show some of my basic projects.
 
-### Engineering Tools:
+### Engineering Tools
 * [Rankine Cycle](https://github.com/Zsolt-Forray/rankine)  
 Calculates the efficiency of Reversible Rankine Cycle.
 * [Rankine Cycle - Nuclear](https://github.com/Zsolt-Forray/rankine-nuclear)  
@@ -51,9 +51,12 @@ Collects today's analyst actions (upgrades, downgrades, etc.) of major brokerage
 ### Statistical Tools
 This project includes different statistical measures (*Beta* and *Historical Volatility*) to quantify risk and *Correlation Coefficient* that is used for the mitigation of risk arising from equity selection.
 
-* [Beta](https://github.com/Zsolt-Forray/statistical-tools/blob/master/beta_calculator.py)
-* [Historical Volatility](https://github.com/Zsolt-Forray/statistical-tools/blob/master/historical_volatility_calculator.py)
-* [Correlation](https://github.com/Zsolt-Forray/statistical-tools/blob/master/correlation_calculator.py)
+* [Beta](https://github.com/Zsolt-Forray/statistical-tools/blob/master/beta_calculator.py)  
+Returns the volatility of a stock in relation to the market.
+* [Historical Volatility](https://github.com/Zsolt-Forray/statistical-tools/blob/master/historical_volatility_calculator.py)  
+Calculates the dispersion of returns for a given security or market index over a given period of time.
+* [Correlation](https://github.com/Zsolt-Forray/statistical-tools/blob/master/correlation_calculator.py)  
+Returns a measure that indicates the degree to which the prices of two assets move together relative to their means.
 
 ### Options Strategies
 * [Options Calculator](https://github.com/Zsolt-Forray/options-calculator)  
