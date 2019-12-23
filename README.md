@@ -70,5 +70,12 @@ This tool is created to estimate stock price direction prediction accuracy of K-
 ### [Stock Price Behavior Analyzing Tool](https://github.com/Zsolt-Forray/stock-price-behavior)
 This *Price Behavior Analyzing* tool provides statistics of the distribution of predefined stock price ranges (e.g. close price and open price difference) over a given period of time.
 
+### [Installable Desktop App](https://github.com/Zsolt-Forray/rt-data-viewer)
+This installable desktop app receives and displays stock data quotes updated every 5 seconds.
+
+* Installable Python 3 desktop app
+* Electron framework as a GUI for Python
+* Use of web technologies like JavaScript, HTML, and CSS
+
 ### [Portfolio Website](https://www.zsoltforray.com/)
 Portfolio website to present some of my projects.
